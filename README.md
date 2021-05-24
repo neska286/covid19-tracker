@@ -1,2 +1,20 @@
+
 # covid19-tracker
-In the light of the covid-19 pandemic and the vaccination that is taking place in many countries, tourists and travellers are looking for a tool to tell them whether they should or not travel to a certain country.
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
